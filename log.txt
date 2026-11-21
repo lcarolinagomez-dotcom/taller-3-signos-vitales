@@ -1,0 +1,19 @@
+[2026-11-18 23:22:04] Estructura de carpetas (/data/txt, /data/csv, /data/json) verificada/creada.
+[2026-11-18 23:22:04] Archivo datos.txt generado y movido a data/txt/
+[2026-11-18 23:22:04] Archivo datos.csv generado y movido a data/csv/
+[2026-11-18 23:22:04] Archivo datos.json exportado y movido a data/json/
+[2026-11-18 23:22:04] Datos importados exitosamente desde data/json/datos.json
+[2026-11-18 23:27:14] Estructura de carpetas (/data/txt, /data/csv, /data/json) verificada/creada.
+[2026-11-18 23:27:14] Archivo datos.txt generado y movido a data/txt/
+[2026-11-18 23:27:14] Archivo datos.csv generado y movido a data/csv/
+[2026-11-18 23:27:14] Archivo datos.json exportado y movido a data/json/
+[2026-11-18 23:27:14] Datos importados exitosamente desde data/json/datos.json
+[2026-11-18 23:27:14] Validación Regex completada: 50 de 50 registros válidos.
+[2026-11-18 23:35:22] Carpetas /data/txt, /data/csv y /data/json creadas.
+[2026-11-18 23:35:22] Archivo datos.txt guardado y movido.
+[2026-11-18 23:35:22] Archivo datos.csv guardado y movido.
+[2026-11-18 23:35:22] Archivo datos.json exportado y movido.
+[2026-11-18 23:35:22] Datos importados desde data/json/datos.json.
+[2026-11-18 23:35:22] Validación completada: 50 de 50 válidos.
+[2026-11-18 23:35:24] Insertados 50 registros en MongoDB.
+[2026-11-18 23:35:24] Consultas MongoDB exportadas a resultados_mongo.json.
